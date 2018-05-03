@@ -1,2 +1,3 @@
-# admin
-The admin service.
+# dep-admin
+
+> The admin service for depsea project.

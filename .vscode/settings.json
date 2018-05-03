@@ -1,0 +1,10 @@
+{
+    "tslint.enable": true,
+    "tslint.autoFixOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.autoIndent": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "emmet.triggerExpansionOnTab": true
+}
